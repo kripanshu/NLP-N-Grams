@@ -1,7 +1,7 @@
-Author : Kripanshu Bhargava kxb162030
+Author : Kripanshu Bhargava 
 python 3.6 is used to write this code
 
-Note : The folder named homework2_kxb162030 contains:
+Note : The folder contains:
 1. corpus.txt : this is the corpus given in the question
 2. homework.py : this is the python script for the bigram model
 3. Readme.txt : this is the file containing information and instructions.
